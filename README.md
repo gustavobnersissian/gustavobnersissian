@@ -11,7 +11,7 @@
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobnersissian&show_icons=true&theme=tokyonight)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight&exclude_repo=projetoDandD,MatheusZanivan.github.io)](https://github.com/MatheusZanivan/github-readme-stats)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobnersissian&layout=compact)](https://github.com/gustavobnersissian/github-readme-stats)
 
 
 <!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
