@@ -1,4 +1,4 @@
-<img src="http://www.maximizasoftware.com.br/wp-content/uploads/2018/05/Mobilization-For-Adaptive-Websites.gif" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="http://www.maximizasoftware.com.br/wp-content/uploads/2018/05/Mobilization-For-Adaptive-Websites.gif" min-width="300px" max-width="300px" width="400px" align="right" >
 
 # Gustavo's GitHub :v:
 <p align="left"> 
