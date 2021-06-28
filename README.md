@@ -1,14 +1,22 @@
-### Hi there 👋
+<img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" min-width="400px" max-width="400px" width="400px" align="right" >
 
-<!--
-**gustavobnersissian/gustavobnersissian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gustavo's GitHub :v:
+<p align="left"> 
+  Hello, my name is <strong>Gustavo Brandão Nersissian</strong>, I'm from <strong>Brazil</strong>🇧🇷<br>
+  Studying to be a Front End Developer, 18 years old.<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently studying Computer Science (4/8)!
+- 🔨 Tools: <strong>HTML5, CSS3, JS, C, C#, .NET, VsCode, Git, GitHub.</strong> 
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobnersissian&show_icons=true&theme=tokyonight)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight&exclude_repo=projetoDandD,MatheusZanivan.github.io)](https://github.com/MatheusZanivan/github-readme-stats)-->
+
+
+
+<!--[![MatheusZanivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+    <br>
+  <a href="https://api.whatsapp.com/send?phone=5511933553767" target="_blank" alt="WhatsApp"><br>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511992947890"/></a>
