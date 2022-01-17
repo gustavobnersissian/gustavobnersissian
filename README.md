@@ -6,8 +6,8 @@
   Studying to be a Data Scientist, 19 years old.<br>
 </p>
 
-- 👨‍💻 I’m currently studying Computer Science (4/8)!
-- 🔨 Tools: <strong>HTML5, CSS3, JS, C, C#, .NET, VsCode, Git, GitHub.</strong> 
+- 👨‍💻 I’m currently studying Computer Science (5/8)!
+- 🔨 Tools: <strong>Python, SQL, R, Excel, C, C#, .NET, VsCode, Git, GitHub.</strong> 
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobnersissian&show_icons=true&theme=tokyonight)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight&exclude_repo=projetoDandD,MatheusZanivan.github.io)](https://github.com/MatheusZanivan/github-readme-stats)-->
