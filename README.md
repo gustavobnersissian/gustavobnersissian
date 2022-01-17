@@ -3,7 +3,7 @@
 # Gustavo's GitHub :v:
 <p align="left"> 
   Hello, my name is <strong>Gustavo Brandão Nersissian</strong>, I'm from <strong>Brazil</strong>🇧🇷<br>
-  Studying to be a Front End Developer, 18 years old.<br>
+  Studying to be a Data Scientist, 19 years old.<br>
 </p>
 
 - 👨‍💻 I’m currently studying Computer Science (4/8)!
