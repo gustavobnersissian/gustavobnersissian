@@ -3,11 +3,8 @@
 # Gustavo's GitHub :v:
 <p align="left"> 
   Hello, my name is <strong>Gustavo Brandão Nersissian</strong>, I'm from <strong>Brazil</strong>🇧🇷<br>
-  Studying to be a Data Scientist, 19 years old.<br>
+  Studying to be a Data Scientist, 22 years old.<br>
 </p>
-
-- 👨‍💻 I’m currently studying Computer Science (5/8)!
-- 🔨 Tools: <strong>Python, SQL, R, Excel, C, C#, .NET, VsCode, Git, GitHub.</strong> 
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobnersissian&show_icons=true&theme=tokyonight)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZanivan&langs_count=8&theme=tokyonight&exclude_repo=projetoDandD,MatheusZanivan.github.io)](https://github.com/MatheusZanivan/github-readme-stats)-->
